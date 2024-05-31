@@ -1,5 +1,3 @@
-Dla działalności kodu należy wpisać poniższe wiersze w terminalu:
+Dla działalności kodu należy wpisać poniższy wiersz w terminalu:
 
-pip install notebook
-pip install matplotlib
-pip install pandas
+pip install notebook && pip install matplotlib && pip install pandas
