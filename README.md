@@ -3,6 +3,7 @@ Dla działalności kodu należy wpisać poniższy wiersz w terminalu:
 pip install notebook && pip install matplotlib && pip install pandas
 
 Kod automatycznie pobierze plik .csv z strony źródła, zawierajace informacje o wypadkach samochodowych w Nowym Jorku: https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
+
 Dalsze informacje odnośnie tego datasetu są dostępne (np. legenda kolumn) https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
 Celem kodu jest:
